@@ -2,11 +2,10 @@ package com.brazilliferp.game
 
 import android.app.Activity
 import android.os.Bundle
-import android.view.View
+import android.view.WindowManager
 import android.webkit.WebChromeClient
 import android.webkit.WebView
 import android.webkit.WebViewClient
-import android.view.WindowManager
 
 class MainActivity : Activity() {
     override fun onCreate(savedInstanceState: Bundle?) {
